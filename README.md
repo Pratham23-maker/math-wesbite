@@ -1,6 +1,7 @@
 Maths the Fun Way
 A website designed to make learning mathematics intuitive and fun. Using interactive web technologies, this project offers tutorials, private tutoring options, and interactive games to help students of all ages master mathematics.
-
+![image ref](https://github.com/user-attachments/assets/115026bf-0cc7-42f4-a938-7158bed3d961)
+![image ref](https://github.com/user-attachments/assets/360d37de-c04a-49ff-9987-4f28e9cea831)
 
 
 Table of Contents
