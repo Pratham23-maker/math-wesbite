@@ -17,7 +17,6 @@ Available across multiple devices (laptops, tablets, phones).
 30-day money-back guarantee.
 Intuitive user interface with an engaging design.
 Games and activities to make learning fun.
-tutoriles 
 
 
 Installation
@@ -32,7 +31,7 @@ bash
 Copy code
 cd maths-the-fun-way
 Open index.html in your browser to explore the website.
-Uploading Maths website - Google Chrome 2024-09-10 16-41-15.mp4…
+[Uploading Maths website - Google Chrome 2024-09-10 16-41-15.mp4…](https://github.com/user-attachments/assets/58f2948e-3b97-4b50-8c48-a7211e29fb61)
 
 Usage
 Simply open the index.html file in any web browser to view the website. The CSS file (style.css) ensures that the design remains responsive and user-friendly across all devices.
