@@ -32,6 +32,7 @@ bash
 Copy code
 cd maths-the-fun-way
 Open index.html in your browser to explore the website.
+Uploading Maths website - Google Chrome 2024-09-10 16-41-15.mp4…
 
 Usage
 Simply open the index.html file in any web browser to view the website. The CSS file (style.css) ensures that the design remains responsive and user-friendly across all devices.
